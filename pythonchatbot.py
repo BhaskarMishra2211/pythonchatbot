@@ -16,7 +16,7 @@ small_talks = [
     "which is your fav.movie?",
     "My fav.movie is Mission Impossible",
     "Do you watch anime?",
-    "yes i do, demon slayer is my favourite"
+    "yes I do, demon slayer is my favourite"
 ]
 
 
